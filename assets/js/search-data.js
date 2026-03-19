@@ -405,11 +405,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/xiaoshi/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/xiaoshi/news/announcement_2/";
             },},{id: "news-joined-ucsd-dusp",
           title: 'Joined UCSD DUSP',
           description: "",
