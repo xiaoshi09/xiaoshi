@@ -473,9 +473,9 @@ ninja.data = [{
           description: "USP 191a is an intermediate-level, hands-on course on practical knowledge of Geographical Information Systems and Science designed for students in urban planning and related fields. This course transitions students from GIS software operation to advanced spatial problem-solving. We will focus on advanced methods to manipulate, analyzing, and communicate complex spatial data and issues.",
           section: "Teachings",handler: () => {
               window.location.href = "/xiaoshi/teachings/191a/";
-            },},{id: "teachings-usp4-introduction-to-geographic-information-systems-gis",
-          title: 'USP4. Introduction to Geographic Information Systems (GIS)',
-          description: "This is a hands-on introduction to practical knowledge of Geographical Information Systems and Science designed for students in urban planning and related fields. Maps are a powerful tool for both describing and studying urban issues that occur across space. Lectures and labs will discuss and focus on the elements of effectively creating, analyzing, and presenting maps in urban settings. By the end of the course, students can expect to be able to find and manage spatial data, run spatial analyses, and present output in maps and data files.",
+            },},{id: "teachings-usp-191b-advanced-gis-for-urban-research",
+          title: 'USP 191b. Advanced GIS for Urban Research',
+          description: "This course introduces students to the state-of-art geospatial analysis concepts, theories, and techniques in the field. To prepare students for addressing complex, real-world challenges, the course emphasizes working with large and multidimensional datasets (e.g., real-time and high-resolution spatial data), advanced analysis techniques (e.g. image detection, spatial modeling), and rigorous research design and tool development. Students will gain proficiency in industry-standard platforms including ArcGIS Pro, QGIS, and ArcGIS Online as well as exposures to coding languages (SQL and Python) essential to geocomputing.",
           section: "Teachings",handler: () => {
               window.location.href = "/xiaoshi/teachings/191b/";
             },},{id: "teachings-usp4-introduction-to-geographic-information-systems-gis",
