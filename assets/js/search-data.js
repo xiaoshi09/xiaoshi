@@ -416,11 +416,6 @@ ninja.data = [{
           description: "A Matched Analysis of Population Registry and Clinical Cohort Data",
           section: "Projects",handler: () => {
               window.location.href = "/xiaoshi/projects/1_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/xiaoshi/projects/4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
