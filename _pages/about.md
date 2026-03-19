@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I teaches spatial analysis and Geographic Information System (GIS) at [UCSD Department of Urban Studies and Planning](https://usp.ucsd.edu/). Previously, I received my Ph.D. from University of Washington and completed my postdoc training at National Institute on Minority Health and Health Disparities (NIMHD). 
+I teach spatial analysis and Geographic Information System (GIS) at [UCSD Department of Urban Studies and Planning](https://usp.ucsd.edu/). Previously, I received my Ph.D. from the University of Washington and completed my postdoc training at the National Institute on Minority Health and Health Disparities (NIMHD). 
 
-My research and teaching centers on the curation of `urban digital twins` and the modeling of complex `environment-behavior` dynamics, providing evidence-based insights for policy innovations.
+My research and teaching center on the curation of `urban digital twins` and the modeling of complex `environment-behavior` dynamics, providing evidence-based insights for environmental health programs and policy innovations.
