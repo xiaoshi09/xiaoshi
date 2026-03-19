@@ -405,16 +405,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/xiaoshi/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/xiaoshi/news/announcement_2/";
             },},{id: "news-joined-ucsd-dusp",
           title: 'Joined UCSD DUSP',
+          description: "",
+          section: "News",},{id: "news-biostatistics-capstone-graduation-university-of-washington",
+          title: 'Biostatistics Capstone Graduation, University of Washington',
           description: "",
           section: "News",},{id: "projects-survival-impact-of-her2-directed-vaccine-in-inflammatory-breast-cancer",
           title: 'Survival Impact of HER2-Directed Vaccine in Inflammatory Breast Cancer',
