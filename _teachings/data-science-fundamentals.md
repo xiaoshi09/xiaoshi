@@ -1,12 +1,12 @@
 ---
 layout: course
-title: Data Science Fundamentals
-description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
+title: USP4. Introduction to Geographic Information Systems (GIS)
+description: This is a hands-on introduction to practical knowledge of Geographical Information Systems and Science designed for students in urban planning and related fields. Maps are a powerful tool for both describing and studying urban issues that occur across space. Lectures and labs will discuss and focus on the elements of effectively creating, analyzing, and presenting maps in urban settings. By the end of the course, students can expect to be able to find and manage spatial data, run spatial analyses, and present output in maps and data files.
 instructor: Xiao Shi
 year: 2025
-term: Spring
+term: Winter, Spring
 location: ERCA 117
-time: Mondays and Wednesdays, 2:00-3:30 PM
+time: Mondays, Wednesdays, and Fridays, 10:00-10:50 PM
 course_id: data-science-fundamentals
 schedule:
   - week: 1
