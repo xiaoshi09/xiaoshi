@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Biostatistics Capstone Graduation, University of Washington
+Biostatistics Capstone Graduation, University of Washington :sparkles:
