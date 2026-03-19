@@ -413,8 +413,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/xiaoshi/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-joined-ucsd-dusp",
+          title: 'Joined UCSD DUSP',
           description: "",
           section: "News",},{id: "projects-survival-impact-of-her2-directed-vaccine-in-inflammatory-breast-cancer",
           title: 'Survival Impact of HER2-Directed Vaccine in Inflammatory Breast Cancer',
