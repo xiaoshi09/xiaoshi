@@ -468,16 +468,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/xiaoshi/projects/9_project/";
+            },},{id: "teachings-usp191a-intermediate-gis-for-urban-and-community-planning",
+          title: 'USP191a. Intermediate GIS for Urban and Community Planning',
+          description: "USP 191a is an intermediate-level, hands-on course on practical knowledge of Geographical Information Systems and Science designed for students in urban planning and related fields. This course transitions students from GIS software operation to advanced spatial problem-solving. We will focus on advanced methods to manipulate, analyzing, and communicate complex spatial data and issues.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/xiaoshi/teachings/191a/";
             },},{id: "teachings-usp4-introduction-to-geographic-information-systems-gis",
           title: 'USP4. Introduction to Geographic Information Systems (GIS)',
           description: "This is a hands-on introduction to practical knowledge of Geographical Information Systems and Science designed for students in urban planning and related fields. Maps are a powerful tool for both describing and studying urban issues that occur across space. Lectures and labs will discuss and focus on the elements of effectively creating, analyzing, and presenting maps in urban settings. By the end of the course, students can expect to be able to find and manage spatial data, run spatial analyses, and present output in maps and data files.",
           section: "Teachings",handler: () => {
               window.location.href = "/xiaoshi/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/xiaoshi/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-cv',
         title: 'CV',
