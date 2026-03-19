@@ -416,11 +416,6 @@ ninja.data = [{
           description: "A Matched Analysis of Population Registry and Clinical Cohort Data",
           section: "Projects",handler: () => {
               window.location.href = "/xiaoshi/projects/1_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/xiaoshi/projects/9_project/";
             },},{id: "teachings-usp191a-intermediate-gis-for-urban-and-community-planning",
           title: 'USP191a. Intermediate GIS for Urban and Community Planning',
           description: "USP 191a is an intermediate-level, hands-on course on practical knowledge of Geographical Information Systems and Science designed for students in urban planning and related fields. This course transitions students from GIS software operation to advanced spatial problem-solving. We will focus on advanced methods to manipulate, analyzing, and communicate complex spatial data and issues.",
