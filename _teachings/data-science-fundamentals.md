@@ -7,7 +7,7 @@ year: 2025
 term: Winter, Spring
 location: ERCA 117
 time: Mondays, Wednesdays, and Fridays, 10:00-10:50 PM
-course_id: data-science-fundamentals
+course_id: USP4
 schedule:
   - week: 1
     date: Feb 5
