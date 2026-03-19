@@ -7,7 +7,7 @@ subtitle: <a href='#'>Lecturer & Affliated Faculty</a>. University of California
 profile:
   align: right
   image: headshot.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
  #  more_info: >
  #   <p> </p>
  #   <p> </p>
@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I teaches spatial analysis and Geographic Information System (GIS) at [UCSD Department of Urban Studies and Planning](https://usp.ucsd.edu/). Previously, I received my Ph.D. from University of Washington and completed my postdoc training at National Institute on Minority Health and Health Disparities (NIMHD). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research and teaching centers on the curation of `urban digital twins` and the modeling of complex `environment-behavior` dynamics, providing evidence-based insights for policy innovations.
