@@ -416,9 +416,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-survival-impact-of-her2-directed-vaccine-in-inflammatory-breast-cancer",
+          title: 'Survival Impact of HER2-Directed Vaccine in Inflammatory Breast Cancer',
+          description: "A Matched Analysis of Population Registry and Clinical Cohort Data",
           section: "Projects",handler: () => {
               window.location.href = "/xiaoshi/projects/1_project/";
             },},{id: "projects-project-2",
